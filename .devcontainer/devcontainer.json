@@ -1,0 +1,7 @@
+{
+    "name": "Atari-MLk Dev Container",
+    "build": {
+      "dockerfile": "Dockerfile",
+      "context": ".."
+    }
+  }
